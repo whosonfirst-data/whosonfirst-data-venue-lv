@@ -1,0 +1,76 @@
+{
+  "id": 1108702951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.1081498,56.9582533,24.1081498,56.9582533",
+    "geom:latitude":56.958253,
+    "geom:longitude":24.10815,
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elizabetes 2-418",
+    "sg:city":"Riga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"LV-1340",
+    "sg:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ],
+    "sg:website":"http://www.infobuild.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901515,
+        102191581,
+        85633279,
+        101751789,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hw8HGlU11Wpo9AWP7qwOL_56.958253_24.108150@1308163239"
+    },
+    "wof:country":"LV",
+    "wof:created":1474570893,
+    "wof:geomhash":"c517b32094183143d595d35905ada0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85901515,
+            "region_id":85686065,
+            "venue_id":1108702951
+        }
+    ],
+    "wof:id":1108702951,
+    "wof:lastmodified":1474570893,
+    "wof:name":"InfoBuild",
+    "wof:parent_id":85901515,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ]
+},
+  "bbox": [
+    24.1081498,
+    56.9582533,
+    24.1081498,
+    56.9582533
+],
+  "geometry": {"coordinates":[24.1081498,56.9582533],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1108702955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.0653247,56.9691171,24.0653247,56.9691171",
+    "geom:latitude":56.969117,
+    "geom:longitude":24.065325,
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "sg:address":"Balta St., 15",
+    "sg:city":"Riga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"LV-1055",
+    "sg:tags":[
+        "web",
+        "development",
+        "software",
+        "chart",
+        "flash",
+        "flash-component",
+        "graphs",
+        "charts",
+        "html",
+        "xml",
+        "swf",
+        "asp",
+        "asp-net",
+        "jsp",
+        "php",
+        "perl",
+        "cgi",
+        "ajax",
+        "grid",
+        "adobe",
+        "javascript"
+    ],
+    "sg:website":"http://origramy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901527,
+        102191581,
+        85633279,
+        101751789,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Nfz9LxB2HoQGJDLNlS9W_56.969117_24.065325@1308163240"
+    },
+    "wof:country":"LV",
+    "wof:created":1474570893,
+    "wof:geomhash":"26ab90c5574f0be3a30748740164554b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85901527,
+            "region_id":85686065,
+            "venue_id":1108702955
+        }
+    ],
+    "wof:id":1108702955,
+    "wof:lastmodified":1474570893,
+    "wof:name":"Origramy",
+    "wof:parent_id":85901527,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "development",
+        "software",
+        "chart",
+        "flash",
+        "flash-component",
+        "graphs",
+        "charts",
+        "html",
+        "xml",
+        "swf",
+        "asp",
+        "asp-net",
+        "jsp",
+        "php",
+        "perl",
+        "cgi",
+        "ajax",
+        "grid",
+        "adobe",
+        "javascript"
+    ]
+},
+  "bbox": [
+    24.0653247,
+    56.9691171,
+    24.0653247,
+    56.9691171
+],
+  "geometry": {"coordinates":[24.0653247,56.9691171],"type":"Point"}
+}

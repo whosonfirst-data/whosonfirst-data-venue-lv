@@ -1,0 +1,67 @@
+{
+  "id": 1108702957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.1532741,56.9549274,24.1532741,56.9549274",
+    "geom:latitude":56.954927,
+    "geom:longitude":24.153274,
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pernavas street 43",
+    "sg:city":"Riga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"LV1009",
+    "sg:website":"http://www.deac.eu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907829,
+        102191581,
+        85633279,
+        101751789,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O4I8QJJsCYeRF9BfOCXpH_56.954927_24.153274@1308163241"
+    },
+    "wof:country":"LV",
+    "wof:created":1474570893,
+    "wof:geomhash":"406052971243f278cfb930efe92205df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85907829,
+            "region_id":85686065,
+            "venue_id":1108702957
+        }
+    ],
+    "wof:id":1108702957,
+    "wof:lastmodified":1474570893,
+    "wof:name":"DEAC",
+    "wof:parent_id":85907829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1532741,
+    56.9549274,
+    24.1532741,
+    56.9549274
+],
+  "geometry": {"coordinates":[24.1532741,56.9549274],"type":"Point"}
+}
